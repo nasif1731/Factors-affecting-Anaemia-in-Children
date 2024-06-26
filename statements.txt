@@ -1,0 +1,75 @@
+=> Demographic Information
+ > Age in 5-year groups
+   ~bar chart
+   ~scatter plot
+   ~Predicted Data
+   ~Regression
+ > Type of place of residence
+   ~bar chart
+   ~Predicted Data
+   ~Regression
+ > Highest educational level
+   ~bar chart
+   ~Predicted Data
+   ~Regression
+ > Wealth index combined
+   ~bar chart
+   ~Predicted Data
+=> Family and Marital Status
+ > Current marital status
+   ~bar chart
+   ~Predicted data
+ > Currently residing with husband/partner
+   ~bar chart
+   ~Predicted data
+=> Health and Medical Information
+ > Anemia level
+    ~bar chart
+    
+ > Had fever in last two weeks
+    ~bar chart
+    ~Predicted data
+ > Taking iron pills, sprinkles, or syrup
+    ~bar chart
+    ~Predicted data
+=> Infant and Childcare
+ > When child put to breast
+    ~bar chart
+    ~Predicted data
+ > Have mosquito bed net for sleeping (from household questionnaire)
+    ~bar chart
+    ~Predicted data
+=> Lifestyle Choices
+ > Smokes cigarettes
+    ~bar chart
+    ~Predicted data
+=> Birth and Reproductive Information
+ > Births in last five years
+    ~Histogram
+    ~Box plot
+    ~Distribution Graph
+    ~Predicted Data
+ > Age of respondent at 1st birth
+    ~Histogram
+    ~Box plot
+    ~Distribution Graph
+    ~Predicted Data
+=> Health Metrics
+ > Hemoglobin level adjusted for altitude and smoking (g/dl - 1 decimal)
+    ~histogram
+    ~Box plot
+    ~Distribution Graph
+    ~Binomial Distribution
+    ~Poisson Distribution
+    ~Predicted Data
+    ~Regression
+ > Hemoglobin level adjusted for altitude (g/dl - 1 decimal)
+    ~histogram
+    ~box plot
+    ~Distribution Graph
+    ~Poisson Distribution
+    ~Binomial Distribution
+    ~Predicted Data
+=> Correlation Heat Map
+=> Pair Plot
+=> Normal Distribution
